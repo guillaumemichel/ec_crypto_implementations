@@ -1,6 +1,6 @@
 # Elliptic Curves Cryptography implementations
 
-Some simple implementations for elliptic curve cryptography in sage (python2) written in sage worksheet (.sagews).
+Some simple implementations for elliptic curve cryptography in sage (python2) written in sage worksheet (.sagews). The worksheets can be opened in Cocalc or in a sage notebook.
 
 ## [Weil Paring](weil_pairing.sagews)
 Implementation of Weil pairing on Elliptic Curves.
